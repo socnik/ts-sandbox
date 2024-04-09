@@ -1,0 +1,23 @@
+{
+  "name": "ts-sandbox",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "author": {
+    "name": "Nikita"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "private": true,
+  "type": "module",
+  "prettier": "@socnik/my-prettier-config",
+  "packageManager": "pnpm@8.10.5",
+  "devDependencies": {
+    "@socnik/my-prettier-config": "^1.0.0",
+    "prettier": "^3.2.5"
+  }
+}
