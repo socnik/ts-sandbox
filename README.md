@@ -55,9 +55,16 @@ I not accept PR`s for this repository. If you want edit it, create your own fork
 $ pnpm add --global degit # If not installed before (https://github.com/Rich-Harris/degit).
 $ degit https://github.com/socnik/ts-sandbox.git
 $ pnpm i
+$ pnpm start:watch
 
 # Enjoy 🚀!
 ```
+
+## Scripts
+
+- `start` - run `src/index.ts` file with [`tsx`](https://github.com/privatenumber/tsx) and exit.
+- `start:watch` - run `src/index.ts` file with [`tsx`](https://github.com/privatenumber/tsx) and wait file changes.
+- `format` - format code using [`Prettier`](https://prettier.io/).
 
 ---
 
