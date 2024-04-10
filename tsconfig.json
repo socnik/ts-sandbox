@@ -4,6 +4,7 @@
   "compilerOptions": {
     "types": ["node"],
     "noEmit": true,
+    "allowImportingTsExtensions": true,
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
