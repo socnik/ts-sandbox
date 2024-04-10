@@ -1,7 +1,7 @@
 {
   "name": "ts-sandbox",
   "version": "0.0.0",
-  "description": "",
+  "description": "Minimal template for quick experimenting with TypeScript and Node.js",
   "license": "MIT",
   "scripts": {
     "start": "tsx ./src",
