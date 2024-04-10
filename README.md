@@ -53,9 +53,13 @@ I not accept PR`s for this repository. If you want edit it, create your own fork
   </tr>
 </table>
 
-## How use?
+## How to use?
+
+[![Open in Stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/fork/github/socnik/ts-sandbox?title=TypeScript%20Sandbox&file=src/index.ts&hideNavigation=true&hidedevtools=true&view=editor&startCommand=pnpm%20start:watch&terminalHeight=50)
 
 ```shell
+# Execute these commands or open in Stackblitz using button above.
+
 $ pnpm add --global degit # If not installed before (https://github.com/Rich-Harris/degit).
 $ degit https://github.com/socnik/ts-sandbox.git
 $ pnpm i
