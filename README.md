@@ -1,5 +1,9 @@
 # TypeScript Sandbox
 
+<!-- Source Stackblitz url: https://stackblitz.com/fork/github/socnik/ts-sandbox?title=TypeScript Sandbox&file=src/index.ts&hideNavigation=true&hidedevtools=true&view=editor&startCommand=pnpm start:watch&terminalHeight=50 -->
+
+[![Open in Stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/socnik/ts-sandbox?title=TypeScript%20Sandbox&file=src/index.ts&hideNavigation=true&hidedevtools=true&view=editor&startCommand=pnpm%20start:watch&terminalHeight=50)
+
 This is minimal template for quick experiments with TypeScript and Node.js.
 I not accept PR`s for this repository. If you want edit it, create your own fork.
 
