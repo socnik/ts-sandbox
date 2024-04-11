@@ -8,9 +8,6 @@
     "start:watch": "tsx --watch ./src",
     "format": "prettier --write ."
   },
-  "author": {
-    "name": "Nikita"
-  },
   "engines": {
     "node": ">=20.0.0"
   },
