@@ -1,8 +1,8 @@
 # TypeScript Sandbox
 
-<!-- Source Stackblitz url: https://stackblitz.com/fork/github/socnik/ts-sandbox?title=TypeScript Sandbox&file=src/index.ts&hideNavigation=true&hidedevtools=true&view=editor&startCommand=pnpm start:watch&terminalHeight=50 -->
+<!-- Source Stackblitz url: https://stackblitz.com/fork/github/socnik/ts-sandbox/tree/main/template?title=TypeScript Sandbox&file=src/index.ts&hideNavigation=true&hidedevtools=true&view=editor&startCommand=pnpm start:watch&terminalHeight=50 -->
 
-[![Open in Stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/socnik/ts-sandbox?title=TypeScript%20Sandbox&file=src/index.ts&hideNavigation=true&hidedevtools=true&view=editor&startCommand=pnpm%20start:watch&terminalHeight=50)
+[![Open in Stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/socnik/ts-sandbox/tree/main/template?title=TypeScript%20Sandbox&file=src/index.ts&hideNavigation=true&hidedevtools=true&view=editor&startCommand=pnpm%20start:watch&terminalHeight=50)
 
 This is minimal template for quick experiments with TypeScript and Node.js.
 I not accept PR`s for this repository. If you want edit it, create your own fork.
@@ -55,13 +55,13 @@ I not accept PR`s for this repository. If you want edit it, create your own fork
 
 ## How to use?
 
-[![Open in Stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/fork/github/socnik/ts-sandbox?title=TypeScript%20Sandbox&file=src/index.ts&hideNavigation=true&hidedevtools=true&view=editor&startCommand=pnpm%20start:watch&terminalHeight=50)
+[![Open in Stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/fork/github/socnik/ts-sandbox/tree/main/template?title=TypeScript%20Sandbox&file=src/index.ts&hideNavigation=true&hidedevtools=true&view=editor&startCommand=pnpm%20start:watch&terminalHeight=50)
 
 ```shell
 # Execute these commands or open in Stackblitz using button above.
 
 $ pnpm add --global degit # If not installed before (https://github.com/Rich-Harris/degit).
-$ degit https://github.com/socnik/ts-sandbox.git
+$ degit socnik/ts-sandbox/template
 $ pnpm i
 $ pnpm start:watch
 
