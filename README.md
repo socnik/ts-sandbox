@@ -1,5 +1,13 @@
 # TypeScript Sandbox
 
+---
+
+## ⚠️ DEPRECATED ⚠️
+
+**This template was deprecated. [`@socnik/ts-kit`](https://github.com/socnik/ts-kit) replace it. Use the [`sandbox-node`](https://github.com/socnik/ts-kit/tree/main/templates/sandbox-node) template in [`@socnik/ts-kit`](https://github.com/socnik/ts-kit) as replace of `ts-sandbox`.**
+
+---
+
 <!-- Source Stackblitz url: https://stackblitz.com/fork/github/socnik/ts-sandbox/tree/main/template?title=TypeScript Sandbox&file=src/index.ts&hideNavigation=true&hidedevtools=true&view=editor&startCommand=pnpm start:watch&terminalHeight=50 -->
 
 [![Open in Stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/socnik/ts-sandbox/tree/main/template?title=TypeScript%20Sandbox&file=src/index.ts&hideNavigation=true&hidedevtools=true&view=editor&startCommand=pnpm%20start:watch&terminalHeight=50)
